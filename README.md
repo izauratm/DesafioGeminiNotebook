@@ -57,6 +57,12 @@ O conteúdo base está disponível no notebook Gemini:
 - [x] Nome do repositório legível, em minúsculas e sem acento.
 
 ---
+
+## 📸 Visualização das Imagens do Notebook
+
+
+---
+
 📎 Link do curso: [DIO.me](https://web.dio.me/home) 
 
 ---
