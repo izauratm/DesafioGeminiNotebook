@@ -61,23 +61,22 @@ O conteúdo base está disponível no notebook Gemini:
 
 ## 📸 Visualização das Imagens do Notebook
 
-Fontes das quais foram feitas as buscas - notas/números referem-se aos sites
+- Fontes das quais foram feitas as buscas - notas/números referem-se às fontes
 ![Diagrama de Paradigmas](img1.png)
 ![Diagrama de Paradigmas](img2.png)
 ![Diagrama de Paradigmas](img3.png)
 
-Criação dos "Cartões Didáticos"
+- Criação dos "Cartões Didáticos"
 ![Diagrama de Paradigmas](cards.png)
 
-Criação de "Relatórios"
+- Criação dos "Relatórios"
 ![Diagrama de Paradigmas](relatorios.png)
 
-Criação de Mapa Mental
+Criação do "Mapa Mental"
 ![Diagrama de Paradigmas](Mind_Map.png)
 
-Criação da Apresentação de Slides - Power Point
+- Criação da "Apresentação de Slides - Power Point"
 ![Diagrama de Paradigmas](slides.png) 
-
 
 ---
 
