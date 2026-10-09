@@ -5,16 +5,21 @@
 </div>
 
 ## 📌 Tema e Objetivo
-Este repositório documenta o estudo sobre a **evolução das linguagens de programação, seus contextos históricos e impactos atuais**. 
-A partir do curso do Bootcamp **Accenture - Python para Análise e Automação de Dados**, da plataforma de estudos da [Dio.me](https://web.dio.me/),  tive o desafio de desenvolver esse projeto: 
-**Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM**, que a partir de julho de 2026 chama-se Gemini Notebook. 
-O objetivo do meu projeto é compreender como os paradigmas de programação surgiram, se transformaram ao longo do tempo e influenciam o desenvolvimento de software hoje.
+
+Este repositório documenta o estudo sobre a **evolução das linguagens de programação, seus contextos históricos e impactos atuais**.  
+
+O projeto nasceu a partir do curso do Bootcamp **Accenture - Python para Análise e Automação de Dados**, oferecido pela plataforma [Dio.me](https://web.dio.me/). Dentro dessa formação, recebi o desafio de desenvolver o projeto **“Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM”**, que a partir de julho de 2026 passou a se chamar **Gemini Notebook**.  
+
+O **Gemini Notebook** é uma ferramenta de organização e registro de estudos, semelhante a um caderno digital interativo. Ele permite reunir textos, perguntas, respostas e referências em um só lugar, funcionando como um verdadeiro diário de pesquisa.  
+
+O objetivo central deste trabalho é compreender como os paradigmas de programação surgiram, se transformaram ao longo do tempo e continuam influenciando o desenvolvimento de software na atualidade.
+
 
 ## 📚 Fontes Utilizadas
 As fontes consultadas foram:
-- **Artigos acadêmicos e livros clássicos** sobre ciência da computação (ex.: "Structure and Interpretation of Computer Programs").
+- **Artigos acadêmicos e livros clássicos** sobre ciência da computação (ex.: "Structure and Interpretation of Computer Programs") e e-books técnicos (em pdf) de referência.
 - **Documentação oficial de linguagens** (Cobol, Java, Python, C++ entre outras).
-- **Publicações confiáveis** em sites como Wikipédia, IEEE e blogs técnicos de referência.
+- **Publicações confiáveis** em sites como Wikipédia, IEEE e sites técnicos.
 - **Notebook Gemini**: [Evolução Histórica dos Paradigmas de Programação](https://notebook.google.com/notebook/f4e299e8-d959-4acb-858a-f55be9de732e).
 
 Confio nessas fontes porque são reconhecidas pela comunidade científica e tecnológica, possuem revisão por pares ou são mantidas por organizações oficiais das linguagens.
@@ -49,7 +54,7 @@ O conteúdo base está disponível no notebook Gemini:
 
 ---
 
-### ✅ Checklist de Conformidade
+## ✅ Checklist de Conformidade
 - [x] Cada resposta citada mostra de qual fonte veio.  
 - [x] O notebook abre pelo link.  
 - [x] Nenhuma fonte contém dados pessoais ou materiais restritos.  
