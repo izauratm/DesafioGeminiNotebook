@@ -14,7 +14,7 @@ O objetivo do meu projeto é compreender como os paradigmas de programação sur
 As fontes consultadas foram:
 - **Artigos acadêmicos e livros clássicos** sobre ciência da computação (ex.: "Structure and Interpretation of Computer Programs").
 - **Documentação oficial de linguagens** (Cobol, Java, Python, C++ entre outras).
-- **Publicações confiáveis** em sites como Wikipedia, IEEE e blogs técnicos de referência.
+- **Publicações confiáveis** em sites como Wikipédia, IEEE e blogs técnicos de referência.
 - **Notebook Gemini**: [Evolução Histórica dos Paradigmas de Programação](https://notebook.google.com/notebook/f4e299e8-d959-4acb-858a-f55be9de732e).
 
 Confio nessas fontes porque são reconhecidas pela comunidade científica e tecnológica, possuem revisão por pares ou são mantidas por organizações oficiais das linguagens.
