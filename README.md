@@ -71,7 +71,12 @@ Criação dos "Cartões Didáticos"
 
 Criação de "Relatórios"
 ![Diagrama de Paradigmas](relatorios.png)
- 
+
+Criação de Mapa Mental
+![Diagrama de Paradigmas](Mind_Map.png)
+
+Criação da Apresentação de Slides - Power Point
+![Diagrama de Paradigmas](slides.png) 
 
 
 ---
