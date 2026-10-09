@@ -28,17 +28,18 @@ Isso garantiu que as respostas fossem técnicas, contextualizadas e com foco em 
 ## ❓ Perguntas e Respostas
 Durante o estudo, foram feitas perguntas ao notebook, e cada resposta foi acompanhada da fonte correspondente:
 
+- **Pergunta:** Quem foi o percursor da linguagem de computação?  
+  **Resposta:** A resposta sobre quem foi o precursor das linguagens de computação depende do período histórico e do nível de abstração considerado: **Ada Lovelace (Anos 1840)**: É reconhecida como a **pioneira da programação e dos algoritmos** entre outras fontes (História das linguagens de programação – Wikipédia, a enciclopédia livre).  
+  **Fonte:** Ada Lovelace – Wikipédia, a enciclopédia livre e Uma análise Histórica e Técnica da Evolução das Linguagens de Programação: Eficiência, Acessibilidade e Direções Futuras - Zenodo, entre outras fontes.
+
 - **Pergunta:** Quais foram os primeiros paradigmas de programação?  
-  **Resposta:** Paradigma imperativo (Assembly, Fortran) e funcional (Lisp).  
-  **Fonte:** Documentação histórica da ACM.
+  **Resposta:** Os primeiros paradigmas de programação surgiram entre as décadas de 1950 e 1970 para abstrair a complexidade do hardware e oferecer diferentes formas de estruturar algoritmos e dados.  
+  **Fonte:** A Evolução Paradigmática das Linguagens de Programação: Do Gargalo de von Neumann à Era da Segurança de Memória e Computação Heterogênea.
 
 - **Pergunta:** Qual o impacto do paradigma orientado a objetos?  
-  **Resposta:** Introduziu modularidade e reutilização de código, influenciando linguagens como Smalltalk, C++ e Java.  
-  **Fonte:** IEEE Software Journal.
+  **Resposta:** O **Paradigma de Programação Orientada a Objetos (POO)** provocou uma das transformações mais profundas na engenharia de software, alterando radicalmente a forma como os desenvolvedores projetam, organizam e mantêm sistemas complexos.  
+  **Fonte:** Engenharia de software e Linguagem de programação – Wikipédia, a enciclopédia livre; História das Linguagens de Programação - DCC/UFMG.
 
-- **Pergunta:** Como os paradigmas atuais se relacionam com IA e Big Data?  
-  **Resposta:** Paradigmas declarativos e funcionais são amplamente usados em linguagens como Python e R, devido à clareza e suporte a bibliotecas de ciência de dados.  
-  **Fonte:** Blog técnico da Python Software Foundation.
 
 Cada resposta no notebook está acompanhada da referência explícita, garantindo rastreabilidade.
 
