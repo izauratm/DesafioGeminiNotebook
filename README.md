@@ -38,7 +38,7 @@ Durante o estudo, foram feitas perguntas ao notebook, e cada resposta foi acompa
 
 - **Pergunta:** Qual o impacto do paradigma orientado a objetos?  
   **Resposta:** O **Paradigma de Programação Orientada a Objetos (POO)** provocou uma das transformações mais profundas na engenharia de software, alterando radicalmente a forma como os desenvolvedores projetam, organizam e mantêm sistemas complexos.  
-  **Fonte:** Engenharia de software e Linguagem de programação – Wikipédia, a enciclopédia livre; História das Linguagens de Programação - DCC/UFMG.
+  **Fonte:** Engenharia de software e Linguagem de programação – Wikipédia, a enciclopédia livre e História das Linguagens de Programação - DCC/UFMG.
 
 
 Cada resposta no notebook está acompanhada da referência explícita, garantindo rastreabilidade.
